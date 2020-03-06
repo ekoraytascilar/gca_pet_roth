@@ -1,1 +1,1 @@
-# gca_pet_roth
+# Longitudinal PET change in GCA patients.
